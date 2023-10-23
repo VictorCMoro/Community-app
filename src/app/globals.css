@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos para o tema claro */
+.light-theme {
+    background-color: #ffffff; /* Cor de fundo do tema claro */
+    color: #000000; /* Cor do texto do tema claro */
+  }
+  
+  /* Estilos para o tema escuro */
+  .dark-theme {
+    background-color: #121212; /* Cor de fundo do tema escuro */
+    color: #ffffff; /* Cor do texto do tema escuro */
+  }
+  
